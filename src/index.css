@@ -94,7 +94,8 @@ select {
 
 .container,
 .container-wide {
-  width: min(1180px, calc(100% - 2.5rem));
+  /* Keep the stretched hero / media width sitewide */
+  width: min(1320px, calc(100% - 2.5rem));
   margin-inline: auto;
 }
 
