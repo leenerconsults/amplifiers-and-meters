@@ -32,36 +32,43 @@ export const SOLUTIONS = [
     slug: "concerts",
     name: "Concerts",
     blurb: "Arena and outdoor show systems built for pressure.",
+    body: "From club dates to arenas, A&M supplies FOH and monitor consoles, PA, wireless and IEM packages sized for the room and the bill. We help you lock the right system early, prep it properly, and keep show day focused on the performance, not chasing boxes.",
   },
   {
     slug: "churches",
     name: "Churches",
     blurb: "Worship and conference audio that serves the room.",
+    body: "Worship services, conferences and special programmes need clarity, consistency and gear that the team can trust. A&M provides consoles, wireless, monitoring and full system packages for services and events, plus guidance so volunteers and tech teams are not left guessing on the day.",
   },
   {
     slug: "corporate",
     name: "Corporate",
     blurb: "Clean, reliable systems for brand moments.",
+    body: "Launches, town halls, panels and brand experiences need audio that disappears into the event. We put together discreet, reliable kits (speech, playback, wireless and reinforcement) so presenters stay clear and production stays calm from load-in to wrap.",
   },
   {
     slug: "touring",
     name: "Touring",
     blurb: "Inventory support when the road needs more gear.",
+    body: "When a tour needs overflow inventory or a local top-up, A&M steps in with consoles, stageboxes, wireless and monitoring that match professional workflows. Dry hire or supported packages, prepared to meet the schedule without slowing the crew.",
   },
   {
     slug: "broadcast",
     name: "Broadcast",
     blurb: "Controlled audio for capture and transmission.",
+    body: "Broadcast and capture days need controlled, predictable audio. We supply consoles, stageboxes, communications and related accessories suited to multi-camera and transmission environments, so engineering can focus on the feed, not last-minute kit gaps.",
   },
   {
     slug: "events",
     name: "Events",
     blurb: "Festivals, launches, and one-night productions.",
+    body: "Festivals, one-nighters and hybrid events move fast. A&M builds packages around the brief: PA, mixing, wireless and monitoring that scale with the programme, with prep and dispatch timed to your load-in window.",
   },
   {
     slug: "production-companies",
     name: "Production Companies",
     blurb: "Overflow inventory and package support for pros.",
+    body: "When your own inventory is booked or a client brief stretches what you carry, A&M is the rental partner you call. Take single pieces or coordinated packages, with technical understanding of how pros actually run shows.",
   },
 ] as const;
 
